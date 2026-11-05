@@ -7,6 +7,8 @@ function VistaSimple() {
       <p>Esta es una vista básica en React.</p>
 
       <h3>Todos los perritos se van al cielo</h3>
+
+      <h3>Vim y Nvim mejor que Nano ~ Ignacio Flores</h3>
       <h3>sony se gano la nueva era de los piratas (fernando braña)</h3>
     </div>
   );
