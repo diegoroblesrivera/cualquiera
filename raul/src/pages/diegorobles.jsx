@@ -10,7 +10,7 @@ function VistaSimple() {
 
       <h3>Vim y Nvim mejor que Nano ~ Ignacio Flores</h3>
 
-      <h3>oda</h3>
+      <h3>my mercy prevails over my wrath</h3>
     </div>
   );
 }
