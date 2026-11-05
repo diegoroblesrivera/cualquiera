@@ -9,6 +9,8 @@ function VistaSimple() {
       <h3>Todos los perritos se van al cielo</h3>
 
       <h3>Vim y Nvim mejor que Nano ~ Ignacio Flores</h3>
+
+      <h3>oda</h3>
     </div>
   );
 }
