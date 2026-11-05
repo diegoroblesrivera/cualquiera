@@ -6,44 +6,6 @@ function VistaSimple() {
       <h1>¡Hola Mundo!</h1>
       <p>Esta es una vista básica en React.</p>
       <h1>ARCH LINUX ES DE FEMBOYS(ATTE: OSVALDO)</h1>
-    </div>
-  )
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       <h3>Casi todos sabemos querer
       Pero pocos sabemos amar
@@ -86,14 +48,11 @@ function VistaSimple() {
       El amor no conoce el final
       Y es que todos sabemos querer
       Pero pocos sabemos amar(Jose Jose)</h3>
-<<<<<<< HEAD
-=======
+
       <h3>Vim y Nvim mejor que Nano ~ Ignacio Flores</h3>
->>>>>>> aebdb02c6aa4dbc1ed5d65e506f313e4ff95a53d
->>>>>>> 0de244f4de652cb241d1efc641fa9b389665b877
-=======
+
       <h3>sony se gano la nueva era de los piratas (fernando braña)</h3>
->>>>>>> 02abc3ab4ae25ea7c2e16519968a67e6756ed827
+
     </div>
   );
 }
