@@ -8,7 +8,6 @@ function VistaSimple() {
 
       <h3>Todos los perritos se van al cielo</h3>
 
-<<<<<<< HEAD
 
 
 
@@ -88,9 +87,6 @@ function VistaSimple() {
       El amor no conoce el final
       Y es que todos sabemos querer
       Pero pocos sabemos amar(Jose Jose)</h3>
-=======
-      <h3>Vim y Nvim mejor que Nano ~ Ignacio Flores</h3>
->>>>>>> aebdb02c6aa4dbc1ed5d65e506f313e4ff95a53d
     </div>
   );
 }
