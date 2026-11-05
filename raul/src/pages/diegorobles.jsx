@@ -5,6 +5,7 @@ function VistaSimple() {
     <div>
       <h1>¡Hola Mundo!</h1>
       <p>Esta es una vista básica en React.</p>
+<<<<<<< HEAD
 
       <h3>Todos los perritos se van al cielo</h3>
       <h3>
@@ -29,6 +30,97 @@ function VistaSimple() {
       5. Uslerear y cortar: Extiende la masa sobre una superficie enharinada con un uslero hasta dejarla de un grosor de ½ cm a 1 cm. Corta círculos usando un plato pequeño o un molde redondo, y pínchalas al centro con un tenedor para que no se inflen demasiado.
       6. Freír: Calienta abundante aceite en una olla a 180°C. Fríe las sopaipillas por unos 2 a 3 minutos por lado hasta que estén bien doradas.
       7. Escurrir: Retíralas y ponlas sobre papel absorbente para eliminar el exceso de aceite. Puedes servirlas recién hechas con pebre, palta o mostaza.</h3>
+=======
+      <h1>ARCH LINUX ES DE FEMBOYS(ATTE: OSVALDO)</h1>
+    </div>
+  )
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <h3>Casi todos sabemos querer
+      Pero pocos sabemos amar
+      Es que amar y querer no es igual
+      Amar es sufrir querer es gozar
+      El que ama pretende servir
+      El que ama su vida la da
+      Y el que quiere pretende vivir
+      Y nunca sufrir, y nunca sufrir
+      El que ama no puede pensar
+      Todo lo da, todo lo da
+      El que quiere pretende olvidar
+      Y nunca llorar, y nunca llorar
+      El querer pronto puede acabar
+      El amor no conoce el final
+      Y es que todos sabemos querer
+      Pero pocos sabemos amar
+      El amar es el cielo y la luz
+      Ser amado es total plenitud
+      Es el mar que no tiene final
+      Es la gloria y la paz
+      Es la gloria y la paz
+      El querer es la carne y la flor
+      Es buscar el obscuro rincón
+      Es morder, arañar y besar
+      Es deseo fugaz, es deseo fugaz
+      El que ama no puede pensar
+      Todo lo da, todo lo da
+      El que quiere pretender olvidar
+      Y nunca llorar y nunca llorar
+      El querer pronto puede acabar
+      El amor no conoce el final
+      Y es que todos sabemos querer
+      Pero pocos sabemos amar
+      El que ama no puede pensar
+      Todo lo da, todo lo da
+      El que quiere pretende olvidar
+      Y nunca llorar, y nunca llorar
+      El querer pronto puede acabar
+      El amor no conoce el final
+      Y es que todos sabemos querer
+      Pero pocos sabemos amar(Jose Jose)</h3>
+<<<<<<< HEAD
+=======
+      <h3>Vim y Nvim mejor que Nano ~ Ignacio Flores</h3>
+>>>>>>> aebdb02c6aa4dbc1ed5d65e506f313e4ff95a53d
+>>>>>>> 0de244f4de652cb241d1efc641fa9b389665b877
+=======
+      <h3>sony se gano la nueva era de los piratas (fernando braña)</h3>
+>>>>>>> 02abc3ab4ae25ea7c2e16519968a67e6756ed827
+>>>>>>> 2f5b785e81ea4cd0d619b113235022e75ca08ad4
     </div>
   );
 }
