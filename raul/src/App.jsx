@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import heroImg from './assets/hero.png'
+import mondongoImg from './assets/mondongo.jpg'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
@@ -11,12 +11,17 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
+          <img 
+            src={mondongoImg} 
+            className="base" 
+            alt="Mondongo" 
+            style={{ width: '600px', height: 'auto', maxWidth: '90vw' }} 
+          />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Full stack 2</h1>
+          <h1>Mondongo</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
